@@ -1,5 +1,5 @@
 # Rooms_Managment
-With this project an employee can manage the rooms and the reservations of the hotel.
+With this project an employee can manage the rooms and reservations of the hotel.
 ## The employee can excecute the following methods:
 - Add a room.
 - Delete a room.
